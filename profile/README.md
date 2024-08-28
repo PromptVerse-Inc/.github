@@ -49,7 +49,7 @@ For more information about our products and services, or to request a demo, plea
 - **Social Media**: Follow us on
 - [Instagram](https://www.instagram.com/itspromptverse),
 - [Twitter](https://twitter.com/itspromptverse),
-- [LinkedIn]([https://www.linkedin.com/company/promptverse](https://www.linkedin.com/company/promptverse-ai-hub/))
+- [LinkedIn](https://www.linkedin.com/company/promptverse-ai-hub/)
 
 ---
 
