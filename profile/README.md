@@ -1,4 +1,4 @@
-# PromptVerse Overview
+# PromptVerse
 ![143shots_so](https://github.com/user-attachments/assets/55f6b626-e395-422d-a593-509e6ba4e14c)
 
 
@@ -46,7 +46,10 @@ For more information about our products and services, or to request a demo, plea
 
 - **Email**: [info@promptverse.ai](mailto:promptverse254@gmail.com)
 - **Website**: [Landing Page](https://prompt-verse-landing-page.vercel.app/)
-- **Social Media**: Follow us on [Instagram](https://www.instagram.com/itspromptverse), [Twitter](https://twitter.com/itspromptverse), [LinkedIn]([https://www.linkedin.com/company/promptverse](https://www.linkedin.com/company/promptverse-ai-hub/))
+- **Social Media**: Follow us on
+- [Instagram](https://www.instagram.com/itspromptverse),
+- [Twitter](https://twitter.com/itspromptverse),
+- [LinkedIn]([https://www.linkedin.com/company/promptverse](https://www.linkedin.com/company/promptverse-ai-hub/))
 
 ---
 
